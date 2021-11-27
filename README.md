@@ -54,9 +54,9 @@
 2. 瀏覽器請求、資料傳輸、渲染畫面
    - 如同前面所提，當三項交握結束後，瀏覽器和伺服器便會開始執行請求、資料傳輸與渲染畫面的過程
 3. TCP四次揮手，結束連線
-   - 在網頁成功渲染之後，瀏覽器就會和伺服器進行最後的溝通，確認傳輸過程已完成，準備結束連線         
+   - 在網頁成功渲染之後，瀏覽器就會和伺服器進行最後的溝通，確認傳輸過程已完成，準備結束連線        
 
-#Linux背景知識-檔案系統管理
+**Linux背景知識-檔案系統管理**
 
 ![image](https://user-images.githubusercontent.com/91451864/143672638-750a9bff-e18a-4fb7-9220-b2445f1f5c1e.png)
 
@@ -82,10 +82,10 @@
 ![image](https://user-images.githubusercontent.com/91451864/143673751-ed8a50c9-5700-4a2d-ad28-8d60fa362310.png)
 ![image](https://user-images.githubusercontent.com/91451864/143673644-cca9b002-7665-43b2-bcd7-8f995f938cf7.png)
 
-**ls -l可查看每個檔案與目錄的擁有者與群組**
+ **ls -l可查看每個檔案與目錄的擁有者與群組**
 ![image](https://user-images.githubusercontent.com/91451864/143673922-c798ed5a-36d6-4718-ac9e-fc0701854429.png)
 
-**chown可修改檔案或目錄擁有者及群組**
+ **chown可修改檔案或目錄擁有者及群組**
 ![image](https://user-images.githubusercontent.com/91451864/143673933-f12dea27-cfd2-418e-8d8e-f7d7873ce0fe.png)
 
 
